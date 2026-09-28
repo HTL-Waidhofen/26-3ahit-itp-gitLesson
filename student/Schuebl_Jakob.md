@@ -1,3 +1,3 @@
-# Name: Jakob Schuebl
-## Wohnort: Aschbach-Markt
-## Lieblingsfach: ITP, turnen
+##Name: Schuebl Jako
+##Wohnort: Aschbach-Markt
+##Lieblingsfach: Sport und Syt
