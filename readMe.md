@@ -1,5 +1,4 @@
 # Klassendokumentation
-
 Gemeinsame Dokumentation:
 - student (Schüler)
     - jeder Schüler hat eine persönliche Datei 
